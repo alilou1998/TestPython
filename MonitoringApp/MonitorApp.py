@@ -12,5 +12,5 @@ print("La valeur finale de x : ",x)
 ############
 print("La valeur finale de racinecarre(x) : ",sqrt(A))
 print("Le nombre d'iteration : ",log2(526))
-print("Mac")
+
 
